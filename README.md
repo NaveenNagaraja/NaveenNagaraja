@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NaveenNagaraja
-- 👀 I’m interested in Spring Boot
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on new projects
+- 🌱 I’m currently Working on django pyton framework
+- 💞️ I’m looking to collaborate on new projects! If you’re interested in working together, feel free to reach out. Whether it’s contributing to this project or starting something new, let’s connect.ts
 
 
 <!---
